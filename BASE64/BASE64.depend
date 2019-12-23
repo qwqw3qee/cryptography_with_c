@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1551787439 source:d:\users\lizejian\desktop\3.5.1\codes\base64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BASE64.h"
+
+1551787423 d:\users\lizejian\desktop\3.5.1\codes\base64\base64.h
+
+1551787195 source:d:\users\lizejian\desktop\3.5.1\codes\base64\base64.c
+	"BASE64.h"
+	<string.h>
+

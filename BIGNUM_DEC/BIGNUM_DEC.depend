@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1551615421 source:d:\users\lizejian\desktop\3.2.1\bignum_dec\bignum_dec.c
+	"BIGNUM_DEC.h"
+
+1551616036 d:\users\lizejian\desktop\3.2.1\bignum_dec\bignum_dec.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551615386 source:d:\users\lizejian\desktop\3.2.1\bignum_dec\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_DEC.h"
+
+1551635982 source:d:\users\fanre\desktop\3.3.1\codes\bignum_dec\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_DEC.h"
+
+1551635360 d:\users\fanre\desktop\3.3.1\codes\bignum_dec\bignum_dec.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551635852 source:d:\users\fanre\desktop\3.3.1\codes\bignum_dec\bignum_dec.c
+	"BIGNUM_DEC.h"
+
+1551636086 source:c:\users\administrator\desktop\3.3.2\codes\bignum_dec\bignum_dec.c
+	"BIGNUM_DEC.h"
+
+1551635362 c:\users\administrator\desktop\3.3.2\codes\bignum_dec\bignum_dec.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551684813 source:c:\users\administrator\desktop\3.3.2\codes\bignum_dec\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_DEC.h"
+
+1551636086 source:d:\3.4.3\codes\bignum_dec\bignum_dec.c
+	"BIGNUM_DEC.h"
+
+1551635362 d:\3.4.3\codes\bignum_dec\bignum_dec.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551685814 source:d:\3.4.3\codes\bignum_dec\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_DEC.h"
+
+1551685814 source:d:\users\lizejian\desktop\3.5.1\codes\bignum_dec\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_DEC.h"
+
+1551635362 d:\users\lizejian\desktop\3.5.1\codes\bignum_dec\bignum_dec.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551786966 source:d:\3.5.2\codes\bignum_dec\bignum_dec.c
+	"BIGNUM_DEC.h"
+
+1551635362 d:\3.5.2\codes\bignum_dec\bignum_dec.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551786966 source:d:\users\lizejian\desktop\3.6.1\codes\bignum_dec\bignum_dec.c
+	"BIGNUM_DEC.h"
+
+1551635362 d:\users\lizejian\desktop\3.6.1\codes\bignum_dec\bignum_dec.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551837428 source:d:\users\lizejian\desktop\3.6.1\codes\bignum_dec\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_DEC.h"
+
+1551786966 source:d:\users\lizejian\desktop\3.7.1\codes\bignum_dec\bignum_dec.c
+	"BIGNUM_DEC.h"
+
+1551635362 d:\users\lizejian\desktop\3.7.1\codes\bignum_dec\bignum_dec.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

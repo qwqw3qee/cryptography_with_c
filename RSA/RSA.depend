@@ -1,0 +1,174 @@
+# depslib dependency file v1.0
+1551623457 source:d:\users\lizejian\desktop\3.2.1\codes\rsa\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551616052 d:\users\lizejian\desktop\3.2.1\codes\rsa\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551623935 source:d:\users\lizejian\desktop\3.2.1\codes\rsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_BIN_32.h"
+
+1551623458 source:d:\users\fanre\desktop\3.3.1\codes\rsa\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551616054 d:\users\fanre\desktop\3.3.1\codes\rsa\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551634704 source:d:\users\fanre\desktop\3.3.1\codes\rsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_BIN_32.h"
+
+1551688922 source:c:\users\administrator\desktop\3.3.2\codes\rsa\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551688922 c:\users\administrator\desktop\3.3.2\codes\rsa\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551689347 source:c:\users\administrator\desktop\3.3.2\codes\rsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_BIN_32.h"
+
+1551688924 source:d:\users\lizejian\desktop\3.4.1\codes\rsa\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551688924 d:\users\lizejian\desktop\3.4.1\codes\rsa\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551688924 source:d:\users\fanre\desktop\3.4.2\codes\rsa\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551688924 d:\users\fanre\desktop\3.4.2\codes\rsa\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551688924 source:d:\3.4.3\codes\rsa\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551777085 d:\3.4.3\codes\rsa\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551776783 source:d:\3.4.3\codes\rsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_BIN_32.h"
+
+1551785541 source:d:\users\lizejian\desktop\3.5.1\codes\rsa\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551777086 d:\users\lizejian\desktop\3.5.1\codes\rsa\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551787195 source:d:\users\lizejian\desktop\3.5.1\codes\rsa\base64.c
+	"BASE64.h"
+	<string.h>
+
+1551787423 d:\users\lizejian\desktop\3.5.1\codes\rsa\base64.h
+
+1551787632 source:d:\users\lizejian\desktop\3.5.1\codes\rsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BASE64.h"
+	"BIGNUM_BIN_32.h"
+
+1551787196 source:d:\3.5.2\codes\rsa\base64.c
+	"BASE64.h"
+	<string.h>
+
+1551787424 d:\3.5.2\codes\rsa\base64.h
+
+1551785542 source:d:\3.5.2\codes\rsa\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551777086 d:\3.5.2\codes\rsa\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551796048 source:d:\3.5.2\codes\rsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BASE64.h"
+	"BIGNUM_BIN_32.h"
+
+1551787196 source:d:\users\lizejian\desktop\3.6.1\codes\rsa\base64.c
+	"BASE64.h"
+	<string.h>
+
+1551787424 d:\users\lizejian\desktop\3.6.1\codes\rsa\base64.h
+
+1551785542 source:d:\users\lizejian\desktop\3.6.1\codes\rsa\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551777086 d:\users\lizejian\desktop\3.6.1\codes\rsa\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551872648 source:d:\users\lizejian\desktop\3.6.1\codes\rsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BASE64.h"
+	"BIGNUM_BIN_32.h"
+
+1551787196 source:d:\3.6.3\codes\rsa\base64.c
+	"BASE64.h"
+	<string.h>
+
+1551787424 d:\3.6.3\codes\rsa\base64.h
+
+1551785542 source:d:\3.6.3\codes\rsa\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551777086 d:\3.6.3\codes\rsa\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551922802 source:d:\3.6.3\codes\rsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BASE64.h"
+	"BIGNUM_BIN_32.h"
+
+1551787196 source:d:\users\lizejian\desktop\3.7.1\codes\rsa\base64.c
+	"BASE64.h"
+	<string.h>
+
+1551787424 d:\users\lizejian\desktop\3.7.1\codes\rsa\base64.h
+
+1551785542 source:d:\users\lizejian\desktop\3.7.1\codes\rsa\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551777086 d:\users\lizejian\desktop\3.7.1\codes\rsa\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

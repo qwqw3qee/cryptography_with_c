@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1551787195 source:d:\users\lizejian\desktop\3.5.1\codes\elgamal\base64.c
+	"BASE64.h"
+	<string.h>
+
+1551787423 d:\users\lizejian\desktop\3.5.1\codes\elgamal\base64.h
+
+1551785541 source:d:\users\lizejian\desktop\3.5.1\codes\elgamal\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551785541 d:\users\lizejian\desktop\3.5.1\codes\elgamal\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551794324 source:d:\users\lizejian\desktop\3.5.1\codes\elgamal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_BIN_32.h"
+	"BASE64.h"
+
+1551787196 source:d:\3.5.2\codes\elgamal\base64.c
+	"BASE64.h"
+	<string.h>
+
+1551787424 d:\3.5.2\codes\elgamal\base64.h
+
+1551785542 source:d:\3.5.2\codes\elgamal\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551785542 d:\3.5.2\codes\elgamal\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551843331 source:d:\3.5.2\codes\elgamal\md5.c
+	"MD5.h"
+
+1551841962 d:\3.5.2\codes\elgamal\md5.h
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1551864450 source:d:\3.5.2\codes\elgamal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BIGNUM_BIN_32.h"
+	"BASE64.h"
+	"MD5.h"
+
+1551787196 source:d:\users\lizejian\desktop\3.6.1\codes\elgamal\base64.c
+	"BASE64.h"
+	<string.h>
+
+1551787424 d:\users\lizejian\desktop\3.6.1\codes\elgamal\base64.h
+
+1551785542 source:d:\users\lizejian\desktop\3.6.1\codes\elgamal\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551785542 d:\users\lizejian\desktop\3.6.1\codes\elgamal\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551843332 source:d:\users\lizejian\desktop\3.6.1\codes\elgamal\md5.c
+	"MD5.h"
+
+1551841964 d:\users\lizejian\desktop\3.6.1\codes\elgamal\md5.h
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1551883754 source:d:\users\lizejian\desktop\3.6.1\codes\elgamal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BIGNUM_BIN_32.h"
+	"BASE64.h"
+	"MD5.h"
+
+1551787196 source:d:\users\fanre\desktop\3.6.2\codes\elgamal\base64.c
+	"BASE64.h"
+	<string.h>
+
+1551787424 d:\users\fanre\desktop\3.6.2\codes\elgamal\base64.h
+
+1551785542 source:d:\users\fanre\desktop\3.6.2\codes\elgamal\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551785542 d:\users\fanre\desktop\3.6.2\codes\elgamal\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551892257 source:d:\users\fanre\desktop\3.6.2\codes\elgamal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BIGNUM_BIN_32.h"
+	"BASE64.h"
+	"MD5.h"
+
+1551841964 d:\users\fanre\desktop\3.6.2\codes\elgamal\md5.h
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1551843332 source:d:\users\fanre\desktop\3.6.2\codes\elgamal\md5.c
+	"MD5.h"
+
+1551787196 source:d:\3.6.3\codes\elgamal\base64.c
+	"BASE64.h"
+	<string.h>
+
+1551787424 d:\3.6.3\codes\elgamal\base64.h
+
+1551785542 source:d:\3.6.3\codes\elgamal\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551785542 d:\3.6.3\codes\elgamal\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551926224 source:d:\3.6.3\codes\elgamal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ELGamal.h"
+
+1551841964 d:\3.6.3\codes\elgamal\md5.h
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1551843332 source:d:\3.6.3\codes\elgamal\md5.c
+	"MD5.h"
+
+1551937483 source:d:\3.6.3\codes\elgamal\elgamal.c
+	"ELGamal.h"
+
+1551926155 d:\3.6.3\codes\elgamal\elgamal.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BIGNUM_BIN_32.h"
+	"BASE64.h"
+	"MD5.h"
+
+1551787196 source:d:\users\lizejian\desktop\3.7.1\codes\elgamal\base64.c
+	"BASE64.h"
+	<string.h>
+
+1551787424 d:\users\lizejian\desktop\3.7.1\codes\elgamal\base64.h
+
+1551785542 source:d:\users\lizejian\desktop\3.7.1\codes\elgamal\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551785542 d:\users\lizejian\desktop\3.7.1\codes\elgamal\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551926226 source:d:\users\lizejian\desktop\3.7.1\codes\elgamal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ELGamal.h"
+
+1551958760 d:\users\lizejian\desktop\3.7.1\codes\elgamal\elgamal.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BIGNUM_BIN_32.h"
+	"BASE64.h"
+	"MD5.h"
+
+1551841964 d:\users\lizejian\desktop\3.7.1\codes\elgamal\md5.h
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1551843332 source:d:\users\lizejian\desktop\3.7.1\codes\elgamal\md5.c
+	"MD5.h"
+
+1551956791 source:d:\users\lizejian\desktop\3.7.1\codes\elgamal\elgamal.c
+	"ELGamal.h"
+

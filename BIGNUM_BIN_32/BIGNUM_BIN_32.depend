@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1551426581 source:c:\users\administrator\desktop\bignum_bin_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551619302 source:d:\users\lizejian\desktop\3.2.1\codes\bignum_bin_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_BIN_32.h"
+
+1551615887 source:d:\users\lizejian\desktop\3.2.1\codes\bignum_bin_32\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551616052 d:\users\lizejian\desktop\3.2.1\codes\bignum_bin_32\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551636056 source:d:\users\fanre\desktop\3.3.1\codes\bignum_bin_32\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551635088 d:\users\fanre\desktop\3.3.1\codes\bignum_bin_32\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551635151 source:d:\users\fanre\desktop\3.3.1\codes\bignum_bin_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_BIN_32.h"
+
+1551636058 source:d:\users\fanre\desktop\3.4.2\codes\bignum_bin_32\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551635090 d:\users\fanre\desktop\3.4.2\codes\bignum_bin_32\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551636306 source:d:\users\fanre\desktop\3.4.2\codes\bignum_bin_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_BIN_32.h"
+
+1551636306 source:d:\users\lizejian\desktop\3.5.1\codes\bignum_bin_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_BIN_32.h"
+
+1551785541 d:\users\lizejian\desktop\3.5.1\codes\bignum_bin_32\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551785542 source:d:\3.5.2\codes\bignum_bin_32\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551785542 d:\3.5.2\codes\bignum_bin_32\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551837340 source:d:\3.5.2\codes\bignum_bin_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_BIN_32.h"
+
+1551874200 source:d:\users\lizejian\desktop\3.6.1\codes\bignum_bin_32\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551785542 d:\users\lizejian\desktop\3.6.1\codes\bignum_bin_32\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551837342 source:d:\users\lizejian\desktop\3.6.1\codes\bignum_bin_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_BIN_32.h"
+
+1551874824 source:d:\3.6.3\codes\bignum_bin_32\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551785542 d:\3.6.3\codes\bignum_bin_32\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551874824 source:d:\3.6.3\codes\bignum_bin_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_BIN_32.h"
+
+1551874824 source:d:\users\lizejian\desktop\3.7.1\codes\bignum_bin_32\bignum_bin_32.c
+	"BIGNUM_BIN_32.h"
+
+1551785542 d:\users\lizejian\desktop\3.7.1\codes\bignum_bin_32\bignum_bin_32.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551959331 source:d:\users\lizejian\desktop\3.7.1\codes\bignum_bin_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIGNUM_BIN_32.h"
+
